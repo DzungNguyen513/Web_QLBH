@@ -1,0 +1,20 @@
+﻿@model IEnumerable<LoaiHang>
+
+<div class="menu">
+	<ul>
+		<li class="active"><a href="index.html">Nguyễn Trung Dũng</a></li>
+		@foreach (var item in Model)
+		{
+			<li id="@item.MaLoai"><a>@item.TenLoai</a></li>
+		}
+		<div class="clear"></div>
+	</ul>
+</div>
+
+<div class="search_box">
+	<form>
+		<input type="text" value="Search" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Search';}">
+		<input type="button" value="">
+	</form>
+</div>
+<div class="clear"></div>

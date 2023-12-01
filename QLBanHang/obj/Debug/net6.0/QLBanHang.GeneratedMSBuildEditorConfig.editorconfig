@@ -1,0 +1,81 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = QLBanHang
+build_property.RootNamespace = QLBanHang
+build_property.ProjectDir = D:\BackEnd\QLBanHang\QLBanHang\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\BackEnd\QLBanHang\QLBanHang
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/BaiThi/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVGhpXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/BaiThi/HangHoaTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVGhpXEhhbmdIb2FUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/BaiThi/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFpVGhpXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Shared/Components/Render/RenderDoXuanKien_Header_bottom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVuZGVyXFJlbmRlckRvWHVhbktpZW5fSGVhZGVyX2JvdHRvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Shared/DoXuanKienLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhbktpZW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Shared/DoXuanKien_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhbktpZW5fRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Shared/DoXuanKien_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhbktpZW5fSGVhZGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Shared/DoXuanKien_header_bottom.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhbktpZW5faGVhZGVyX2JvdHRvbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Shared/DoXuanKien_Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXERvWHVhbktpZW5fTWFpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/BackEnd/QLBanHang/QLBanHang/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bif0yocvvd
